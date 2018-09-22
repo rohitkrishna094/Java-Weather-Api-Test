@@ -22,7 +22,7 @@ import okhttp3.Response;
 public class WeatherService {
 
     // Api key for OpenWeatherMap
-    private String apiKey = "f8d493c278e827dfd4a0584a9ed3295c";
+    private String apiKey = "";
 
     // Base Url to get the weather info
     private String baseUrl = "https://api.openweathermap.org/data/2.5/weather";
