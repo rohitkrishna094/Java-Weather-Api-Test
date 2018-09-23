@@ -1,5 +1,7 @@
 # Java-Weather-Api-Test
 
+This project is an API wrapper around [OpenWeatherMap - api](https://openweathermap.org/). You will need an API key to run this locally. However you can check the herokuapp url without needing any installation or API key.
+
 ## Problem Statement
 
 Create a spring boot app that returns the weather for a given zip code or city. Your app should expose an API with city or zip as parameter and return the weather.
